@@ -338,6 +338,7 @@ a {
     background-size: cover;
 }
 
+
     #services .fa {
         color: #c0ed5d;
     }
@@ -348,7 +349,12 @@ a {
         width: 64px;
         height: 64px;
     }
-
+#services .icon-sketch {
+        background-image: url(../img/skills/sketch.svg);
+    }
+#services .icon-principle {
+        background-image: url(../img/skills/principle.svg);
+    }
     #services .icon-axure {
         background-image: url(../img/skills/Axure.svg);
     }
